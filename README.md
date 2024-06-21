@@ -2,6 +2,8 @@
 
 An EEG grasp and lift solution using a Random Forest algorithm involves analyzing brainwave data (EEG signals) to predict hand movements such as grasping and lifting objects. The Random Forest, a machine learning model, is trained on features extracted from EEG data to recognize patterns corresponding to these specific motor actions. By aggregating the predictions from multiple decision trees, the Random Forest can accurately classify the intent to grasp or lift, enabling responsive control for applications like prosthetics or brain-computer interfaces.
 
+Link to test data generated results:https://drive.google.com/file/d/1LWJq_9S3MxkiQo1wXrrt8zgZaoQX_uXu/view?usp=drive_link
+
 Statistical Analysis
 ![image](https://github.com/ZakriaComputerEngineer/Grasp-Lift-EEG-Detection/assets/150436890/96949125-a163-41f9-8b4c-a7ddb22e7b6f)
 ![image](https://github.com/ZakriaComputerEngineer/Grasp-Lift-EEG-Detection/assets/150436890/eb3fb7bd-3a07-490f-91bc-18d510675d85)
